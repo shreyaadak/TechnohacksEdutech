@@ -1,2 +1,1 @@
-# TechnoHacks-Edutech
-# TechnoHacks-Edutech
+# TechnoHacksEdutech
